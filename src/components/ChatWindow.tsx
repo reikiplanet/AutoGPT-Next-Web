@@ -448,7 +448,7 @@ const FAQ = () => {
       <p>
         If you are facing issues, please head over to our&nbsp;
         <a
-          href=""
+          href="https://github.com/Dogtiti/AutoGPT-Next-Web/issues"
           className="text-sky-500"
         >
           Issue
