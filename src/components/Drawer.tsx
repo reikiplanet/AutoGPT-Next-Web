@@ -164,12 +164,6 @@ const Drawer = ({
             </Fragment>
           )}
           <DrawerItem
-            icon={<FaGithub />}
-            text="GitHub"
-            href="https://github.com/Dogtiti/AutoGPT-Next-Web"
-            target="_blank"
-          />
-          <DrawerItem
             icon={<FaLanguage />}
             text="language"
             onClick={handleLanguageChange}
