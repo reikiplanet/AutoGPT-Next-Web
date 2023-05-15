@@ -15,7 +15,7 @@ export default function HelpDialog({
 
   return (
     <Dialog
-      header={`${t("welcome-to-AutoGPT-Next-Web")} 🤖`}
+      header={`${t("welcome-to-AutoGPT")} 🤖`}
       isShown={show}
       close={close}
     >
