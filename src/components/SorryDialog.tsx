@@ -17,14 +17,6 @@ export const SorryDialog = ({ show, close }: SorryDialogProps) => {
           <br />
           <p>But you can still use it on your site.</p>
           <br />
-          <a
-            className="link"
-            href="https://autogpt-next-web.gitbook.io/autogpt-next-web/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            More Detials
-          </a>
         </p>
       </Trans>
     </Dialog>
