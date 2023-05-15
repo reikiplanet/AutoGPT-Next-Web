@@ -256,15 +256,11 @@ const Home: NextPage = () => {
               className="relative flex flex-col items-center font-mono"
             >
               <div className="flex flex-row items-start shadow-2xl">
-               // <span className="text-4xl font-bold text-[#C0C0C0] xs:text-5xl sm:text-6xl">
-                //  Auto
-                </span>
+
                 <span className="text-4xl font-bold text-white xs:text-5xl sm:text-6xl">
                   智智
                 </span>
-                // <span className="text-4xl font-bold text-white xs:text-5xl sm:text-6xl">
-                //  NextWeb
-               // </span>
+
               </div>
               <div className="mt-1 text-center font-mono text-[0.7em] font-bold text-white">
                 <p>{t("sub-title")}</p>
