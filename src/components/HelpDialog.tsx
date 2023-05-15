@@ -45,17 +45,6 @@ export default function HelpDialog({
               <FaDiscord size={30} />
             </div>
           )}
-          <div
-            className="cursor-pointer rounded-full bg-black/30 p-3 hover:bg-black/70"
-            onClick={() =>
-              window.open(
-                "https://github.com/Dogtiti/AutoGPT-Next-Web",
-                "_blank"
-              )
-            }
-          >
-            <FaGithub size={30} />
-          </div>
         </div>
       </div>
     </Dialog>
